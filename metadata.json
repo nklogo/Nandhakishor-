@@ -1,0 +1,6 @@
+{
+  "name": "FIFA Card Creator",
+  "description": "An Android application to design, customize, and build your own FIFA Ultimate Team player cards with customizable stats and custom photo uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
